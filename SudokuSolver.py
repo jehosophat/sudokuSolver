@@ -1,7 +1,6 @@
 #Eren Ekren
 #Yildiz Technical University
 #4th Grade Student
-import numpy as np
 import math
 
 def findEmptyCell(board,coordinates): #Find an empty cell in given board, and writes coordinates on coordinates parameter
